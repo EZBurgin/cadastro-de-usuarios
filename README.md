@@ -1,23 +1,23 @@
-🎉 Bem-vindo ao Cadastro de Usuários 🚀
+<h1>🎉 Bem-vindo ao Cadastro de Usuários 🚀</h1>
 
-Este projeto é um exemplo interativo para demonstrar o uso de tecnologias incríveis! Aqui você encontrará informações sobre o projeto, as ferramentas utilizadas e instruções sobre como executá-lo em seu ambiente local.
+<h3>ℹ️ Sobre o Projeto </h3> 
+<p>O Cadastro de Usuários é uma aplicação web simples que permite aos usuários criar, visualizar e excluir usuários cadastrados. Foi desenvolvido com as seguintes tecnologias:</p>
+<ul>
+  <li>Frontend: React (com React Router e Axios)  </li>
+  <li> Backend: Node.js com Express   </li>
+  <li>Banco de Dados: MongoDB  </li>
+  <li>Comunicação entre frontend e backend via API REST   </li>
+</ul> 
 
-ℹ️ Sobre o Projeto  
-O Cadastro de Usuários é uma aplicação web simples que permite aos usuários criar, visualizar e excluir usuários cadastrados. Foi desenvolvido com as seguintes tecnologias:
+<p> A aplicação possui as funcionalidades básicas de CRUD (Create, Read, Delete) para gerenciar usuários, com validação para aceitar apenas usuários maiores de 18 anos.</p>
 
-- Frontend: React (com React Router e Axios)  
-- Backend: Node.js com Express  
-- Banco de Dados: MongoDB  
-- Comunicação entre frontend e backend via API REST  
-
-A aplicação possui as funcionalidades básicas de CRUD (Create, Read, Delete) para gerenciar usuários, com validação para aceitar apenas usuários maiores de 18 anos.
-
-🛠️ Ferramentas Utilizadas  
-- React  
-- React Router  
-- Axios  
-- Node.js  
-- Express  
-- MongoDB  
-- Mongoose (ODM para MongoDB)  
-- CORS  
+<h3>🛠️ Ferramentas Utilizadas  </h3>
+<ul>
+  <li>React </li>
+  <li>React Router </li>
+  <li>Axios</li>
+  <li>Node.js </li>
+  <li>Express </li>
+  <li>MongoDB </li>
+  <li>CORS </li>
+</ul>
